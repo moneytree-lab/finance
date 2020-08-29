@@ -1,4 +1,6 @@
-Welcome to the Money Tree Lab
+### Welcome to the Money Tree Lab
+
+Let us help you grow your money
 
 You can use the [editor on GitHub](https://github.com/moneytree-lab/finance/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
